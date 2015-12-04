@@ -15,4 +15,4 @@ RUN npm install
 
 COPY ./ /usr/src/foobot
 
-CMD bin/hubot -a hipchat
+CMD bash
